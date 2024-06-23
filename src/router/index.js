@@ -44,14 +44,14 @@ const routes = [
   },
   {
     path: '/Tugas6',
-    name: 'Tugas',
+    name: 'Tugas6',
     beforeEnter(){
         window.location.href = 'https://reza-project6-prakpbk-223510059.vercel.app/'
     }
   },
   {
     path: '/Tugas7',
-    name: 'Tugas',
+    name: 'Tugas7',
     beforeEnter(){
         window.location.href = 'https://reza-project7-prakpbk-223510059.netlify.app/'
     }
