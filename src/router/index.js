@@ -11,7 +11,7 @@ const routes = [
     path: '/Tugas1',
     name: 'Tugas1',
     beforeEnter(){
-        window.location.href = 'https://project2-tugas-reza.netlify.app/'
+        window.location.href = 'https://reza-project-cv.netlify.app/'
     }
   },
   {
